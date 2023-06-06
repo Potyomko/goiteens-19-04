@@ -1,0 +1,25 @@
+{
+  "name": "goiteens-19-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Potyomko/goiteens-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Potyomko/goiteens-crud/issues"
+  },
+  "homepage": "https://github.com/Potyomko/goiteens-crud#readme",
+  "dependencies": {
+    "parcel": "^2.9.1"
+  }
+}
